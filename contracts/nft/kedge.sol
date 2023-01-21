@@ -33,11 +33,8 @@
   This uses ERC721 (NFT) standard, with modifications to prevent transfers (soulbound).
   Example usage: KYC, dox.
   Properties:
-  -
-  -
-  -
-  -
-  -
+  - no transfer allowed.
+  - centralized minting and burning.
 **/
 
 // SPDX-License-Identifier: MIT
