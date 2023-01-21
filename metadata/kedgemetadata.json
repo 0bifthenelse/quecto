@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "Identification",
-      "value": 0
+      "value": "0x0"
     }
   ],
   "description": "Kedge NFT.",
