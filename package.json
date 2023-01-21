@@ -1,0 +1,12 @@
+{
+  "name": "quecto",
+  "version": "0.1.0",
+  "description": "The Quecto Repository is an open source, MIT-licensed smart contract repository.",
+  "main": "index.js",
+  "repository": "git@github.com:0xApeiron/quecto.git",
+  "author": "apeiron@cryptoprim.com",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.1"
+  }
+}

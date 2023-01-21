@@ -1,0 +1,19 @@
+{
+  "attributes": [
+    {
+      "trait_type": "NFT",
+      "value": "Soulbound"
+    },
+    {
+      "trait_type": "Asset",
+      "value": "Non-transferable Badge"
+    },
+    {
+      "trait_type": "Identification",
+      "value": 0
+    }
+  ],
+  "description": "Kedge NFT.",
+  "image": "https://gateway.pinata.cloud/ipfs/TODO",
+  "name": "Soulbound Token"
+}
