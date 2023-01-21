@@ -1,4 +1,4 @@
-Copyright (c) 2023 0xF3f1BADD2b039799De0023D78c570002b6E89346
+Copyright (c) 2023 Apeiron 0xF3f1BADD2b039799De0023D78c570002b6E89346
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
